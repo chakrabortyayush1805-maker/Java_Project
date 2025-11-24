@@ -1,0 +1,2 @@
+AttendanceRecord {Student ID = 101, Date = 2025-11-24, Present = true}
+AttendanceRecord {Student ID = 102, Date = 2025-11-24, Present = false}

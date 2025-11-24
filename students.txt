@@ -1,0 +1,2 @@
+Student {ID = 101, Name = 'Ayush', Department = 'CSE', Semester = 2}
+Student {ID = 102, Name = 'John', Department = 'Ai', Semester = 3}
